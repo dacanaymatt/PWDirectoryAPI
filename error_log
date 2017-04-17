@@ -1,0 +1,239 @@
+[13-Jan-2017 21:05:25 Asia/Kolkata] PHP Fatal error:  can't prepare statement: Table 'matt_pwdirectory.users' doesn't exist in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 327
+[18-Jan-2017 21:51:39 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[18-Jan-2017 21:51:50 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[18-Jan-2017 21:53:57 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[18-Jan-2017 22:15:02 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[18-Jan-2017 22:23:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[18-Jan-2017 22:26:19 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[18-Jan-2017 22:53:00 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:05:35 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:05:48 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:07:05 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:08:13 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:10:23 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:13:47 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:13:51 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:13:58 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:14:09 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:14:21 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:17:03 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[19-Jan-2017 19:17:32 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[22-Jan-2017 13:58:46 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[22-Jan-2017 13:58:46 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[22-Jan-2017 13:58:46 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[22-Jan-2017 14:01:46 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[22-Jan-2017 14:01:46 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[22-Jan-2017 14:01:46 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[23-Jan-2017 21:43:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:43:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:43:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:43:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:43:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:43:29 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:43:54 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:43:54 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:43:54 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:43:54 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:43:55 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:43:55 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:44:56 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:44:56 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:45:10 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:45:18 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:45:23 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:46:07 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:55:31 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:57:49 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 21:58:04 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:00:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:00:37 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:00:55 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:00:55 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:00:55 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:00:55 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:00:55 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:00:55 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:00:56 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:00:56 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:01:02 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:01:02 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:01:44 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:04:45 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:05:32 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[23-Jan-2017 22:08:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 14:12:09 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 14:16:52 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 14:16:53 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 14:17:11 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 19:34:42 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 19:35:46 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 19:37:23 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 19:38:18 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 19:38:26 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 19:49:04 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 21:27:01 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[24-Jan-2017 22:15:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[25-Jan-2017 18:58:09 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[25-Jan-2017 19:01:03 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[25-Jan-2017 19:01:49 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[25-Jan-2017 19:02:05 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[25-Jan-2017 19:09:29 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[25-Jan-2017 19:09:39 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[25-Jan-2017 19:19:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[25-Jan-2017 19:23:44 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[25-Jan-2017 19:33:25 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[25-Jan-2017 20:00:14 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[26-Jan-2017 20:05:26 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[26-Jan-2017 20:05:29 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[26-Jan-2017 20:06:09 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[26-Jan-2017 21:16:34 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[26-Jan-2017 21:24:52 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[26-Jan-2017 21:24:52 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[26-Jan-2017 21:25:09 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[26-Jan-2017 21:30:23 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[26-Jan-2017 21:35:59 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 06:53:41 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 120
+[27-Jan-2017 12:34:32 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 12:34:38 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 12:34:44 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 12:38:45 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 12:44:08 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 12:44:08 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/matt/public_html/PWDirectoryAPI/core/SR_Controller.php:39) in /home/matt/public_html/PWDirectoryAPI/core/SR_Controller.php on line 38
+[27-Jan-2017 15:14:25 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/matt/public_html/PWDirectoryAPI/core/SR_Controller.php:39) in /home/matt/public_html/PWDirectoryAPI/core/SR_Controller.php on line 38
+[27-Jan-2017 12:46:20 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 12:49:36 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 12:58:52 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 13:07:15 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 13:32:18 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 13:38:47 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 14:22:59 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[27-Jan-2017 14:23:01 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 12:55:21 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 12:55:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 12:55:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 12:55:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 12:55:24 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 13:01:51 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 13:04:15 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:00:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:00:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:00:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:00:30 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 14:00:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:00:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:00:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:00:30 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 14:00:35 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:00:35 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:00:35 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:00:35 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 14:11:54 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:11:54 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:11:54 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:11:54 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 14:12:20 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:12:20 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:12:20 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:12:20 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 14:12:59 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:12:59 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:12:59 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:12:59 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 14:16:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:16:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:16:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:16:24 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 14:18:14 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:18:14 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:18:14 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:18:14 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 14:18:39 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:18:39 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:18:39 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:18:39 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 14:19:33 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:19:33 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:19:33 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:19:33 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 14:19:45 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:19:45 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:19:45 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:19:45 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[28-Jan-2017 14:21:37 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:21:37 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[28-Jan-2017 14:21:37 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 374
+[28-Jan-2017 14:21:37 Asia/Kolkata] PHP Fatal error:  Can't insert to database: No data supplied for parameters in prepared statement in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 379
+[10-Feb-2017 20:09:48 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Feb-2017 20:11:15 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Feb-2017 20:12:18 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Feb-2017 20:12:49 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Feb-2017 20:13:37 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Feb-2017 20:22:55 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Feb-2017 20:27:42 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Feb-2017 20:28:28 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 06:47:20 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 06:51:04 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 06:51:10 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 10:41:05 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 10:56:59 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 11:01:07 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 11:01:43 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 11:08:00 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 11:09:18 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 11:16:37 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 11:17:51 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 11:20:33 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 11:22:32 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 12:32:22 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[11-Feb-2017 12:32:48 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[13-Feb-2017 16:43:27 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[13-Feb-2017 16:49:07 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[13-Feb-2017 18:51:04 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[13-Feb-2017 18:59:39 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[13-Feb-2017 19:11:48 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[13-Feb-2017 19:13:02 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[14-Feb-2017 17:00:54 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[15-Feb-2017 06:05:51 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[15-Feb-2017 06:08:15 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[15-Feb-2017 06:09:45 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[15-Feb-2017 06:25:26 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[15-Feb-2017 06:34:23 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[17-Feb-2017 12:00:52 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[18-Feb-2017 12:12:40 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[22-Feb-2017 21:11:00 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[26-Feb-2017 16:24:23 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[26-Feb-2017 18:37:37 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[26-Feb-2017 18:41:39 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[26-Feb-2017 18:42:41 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[26-Feb-2017 19:46:18 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[26-Feb-2017 21:38:53 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[26-Feb-2017 21:40:41 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[03-Mar-2017 11:40:41 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 15:44:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 15:49:36 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 15:50:15 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Invalid type or no types specified in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 16:05:49 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 16:05:56 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 17:26:43 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 18:22:39 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 18:29:02 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 18:58:09 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 18:58:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 18:58:32 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 18:58:41 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 18:58:44 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 19:00:19 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[03-Mar-2017 19:24:15 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/matt/public_html/PWDirectoryAPI/core/database_handler.php on line 305
+[04-Mar-2017 12:14:40 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[04-Mar-2017 20:05:21 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[05-Mar-2017 18:04:08 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[05-Mar-2017 18:04:27 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[05-Mar-2017 18:12:49 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[07-Mar-2017 14:08:34 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[07-Mar-2017 17:08:11 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[08-Mar-2017 09:53:35 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Mar-2017 15:13:08 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Mar-2017 17:20:33 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Mar-2017 20:04:26 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Mar-2017 20:05:36 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
+[10-Mar-2017 21:16:06 Asia/Kolkata] PHP Fatal error:  Call to a member function getScore() on null in /home/matt/public_html/PWDirectoryAPI/models/model.php on line 500
